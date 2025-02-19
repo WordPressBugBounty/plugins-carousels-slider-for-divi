@@ -2,7 +2,7 @@
 Contributors: divicarousels
 Tags: divi carousel, image carousel, logo carousel, testimonial carousel, divi module, divi, divi slider, divi builder
 Requires at least: 5.0
-Tested up to: 6.6.1
+Tested up to: 6.7.1
 Requires PHP: 5.6
 Stable tag: 1.6.3
 License: GPLv2 or later
@@ -93,7 +93,7 @@ We are thankful that you have chosen our plugin. If our plugin brings a smile to
 [I’m Happy to Give You](https://wordpress.org/support/plugin/carousels-slider-for-divi/reviews/?filter=5#new-post) ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
 
 ## Backed by a Trusted Team ##
-Divi Carousel Lite is brought to you by [Divi Carousel](https://divicarousels.com) Team, a dedicated WordPress product company, trusted by 5000+ websites users
+Divi Carousel Lite is brought to you by [Divi Carousel](https://divicarousels.com) Team, a dedicated WordPress product company, trusted by 6000+ websites users
 
 
 = JOIN US =
