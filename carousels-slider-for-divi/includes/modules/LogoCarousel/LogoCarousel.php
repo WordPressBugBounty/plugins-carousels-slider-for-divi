@@ -1,6 +1,7 @@
 <?php
 include_once(DCS_DIVICAROUSEL_PATH.'/includes/modules/base/base.php');
 include_once(DCS_DIVICAROUSEL_PATH.'/includes/modules/base/utils.php');
+include_once(DCS_DIVICAROUSEL_PATH.'/includes/Traits/Divi8_Icon_Renderer.php');
 
 class DCS_LogoCarousel extends ET_Builder_Module {
 
@@ -8,6 +9,7 @@ class DCS_LogoCarousel extends ET_Builder_Module {
 	public $vb_support = 'on';
 	public $child_slug = 'divi8_logo_carousel_item';
     use DCS_UTILS;
+	use Divi8_Icon_Renderer;
 
 	protected $module_credits = array(
 		'module_uri' => 'https://divicarousels.com/divi-logo-carousel/',
@@ -691,26 +693,7 @@ class DCS_LogoCarousel extends ET_Builder_Module {
 	public function before_render(){
 
 	}
-	public function  leftIconShow(){
-		if ($this->props["divi8_left_icon"]){
-		  $icon = "<i class='et-pb-icon divi8-icon-left'>";
-		  $icon .=	esc_attr( et_pb_process_font_icon($this->props['divi8_left_icon']));
-		  $icon .= "</i>";
-		}else{
-			$icon = "<i class='et-pb-icon divi8-icon-left'>5</i>";
-		}
-		return $icon;
-	}
-	public function  rightIconShow(){
-		if ($this->props["divi8_right_icon"]){
-		  $icon = "<i class='et-pb-icon divi8-icon-right'>";
-		  $icon .=	esc_attr( et_pb_process_font_icon($this->props['divi8_right_icon']));
-		  $icon .= "</i>";
-		}else{
-			$icon = "<i class='et-pb-icon divi8-icon-right'>5</i>";
-		}
-		return $icon;
-	}
+
 	public function render( $attrs, $content = null , $render_slug) {
 		// global $carousel_data;
 		$divi8_autoplay_show_hide = "on" === $this->props['divi8_autoplay'];
@@ -934,8 +917,8 @@ class DCS_LogoCarousel extends ET_Builder_Module {
 		*/
 		BaseDCSCarousel::basecarouse8_set_style($render_slug, $this->props, "wrapper_spacing_margin", "%%order_class%% .own", "margin");
 		BaseDCSCarousel::basecarouse8_set_style($render_slug, $this->props, "wrapper_spacing_padding", "%%order_class%% .own", "padding");
-		BaseDCSCarousel::basecarouse8_set_style($render_slug, $this->props, "item_spacing_margin", "%%order_class%% .divi8_content_carousel_item", "margin");
-		BaseDCSCarousel::basecarouse8_set_style($render_slug, $this->props, "item_spacing_padding", "%%order_class%% .divi8_content_carousel_item", "padding");
+		BaseDCSCarousel::basecarouse8_set_style($render_slug, $this->props, "item_spacing_margin", "%%order_class%% .divi8_logo_carousel_item", "margin");
+		BaseDCSCarousel::basecarouse8_set_style($render_slug, $this->props, "item_spacing_padding", "%%order_class%% .divi8_logo_carousel_item", "padding");
 		BaseDCSCarousel::basecarouse8_set_style($render_slug, $this->props, "nav_spacing_margin", "%%order_class%% .swiper-navi-container", "margin");
 		BaseDCSCarousel::basecarouse8_set_style($render_slug, $this->props, "navi_spacing_padding", "%%order_class%% .swiper-navi-container", "padding");
 		BaseDCSCarousel::basecarouse8_set_style($render_slug, $this->props, "pagi_spacing_margin", "%%order_class%% .swiper-pagination", "margin");

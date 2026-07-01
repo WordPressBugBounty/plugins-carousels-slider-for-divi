@@ -214,17 +214,128 @@ ul.divi8-rating {
 ul.divi8-rating li {
   display: inline-block;
 }
-.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8] {
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_google_review_carousel] {
   font-size: 12px;
   color: #fff;
   /* background: #F14548 !important; */
   position: relative;
   background: linear-gradient(135deg, #3C8CE7 0%, #00FFC2 100%) !important;
-  /* font-weight: bold; */
+  font-weight: bold;
 }
-.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8]:hover {
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_google_review_carousel]:hover {
 	color: #fff;
   }
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_content_carousel] {
+	font-size: 12px;
+	color: #fff;
+	/* background: #F14548 !important; */
+	position: relative;
+	background: linear-gradient(135deg, #3C8CE7 0%, #00FFC2 100%) !important;
+	font-weight: bold;
+}
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_content_carousel]:hover {
+	color: #fff;
+}
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_fb_feed_carousel] {
+	font-size: 12px;
+	color: #fff;
+	/* background: #F14548 !important; */
+	position: relative;
+	background: linear-gradient(135deg, #3C8CE7 0%, #00FFC2 100%) !important;
+	font-weight: bold;
+}
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_fb_feed_carousel]:hover {
+	color: #fff;
+}
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_image_carousel] {
+	font-size: 12px;
+	color: #fff;
+	/* background: #F14548 !important; */
+	position: relative;
+	background: linear-gradient(135deg, #3C8CE7 0%, #00FFC2 100%) !important;
+	font-weight: bold;
+}
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_image_carousel]:hover {
+	color: #fff;
+}
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_instagram_carousel] {
+	font-size: 12px;
+	color: #fff;
+	/* background: #F14548 !important; */
+	position: relative;
+	background: linear-gradient(135deg, #3C8CE7 0%, #00FFC2 100%) !important;
+	font-weight: bold;
+}
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_instagram_carousel]:hover {
+	color: #fff;
+}
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_logo_carousel] {
+	font-size: 12px;
+	color: #fff;
+	/* background: #F14548 !important; */
+	position: relative;
+	background: linear-gradient(135deg, #3C8CE7 0%, #00FFC2 100%) !important;
+	font-weight: bold;
+}
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_logo_carousel]:hover {
+	color: #fff;
+}
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_post_carousel] {
+	font-size: 12px;
+	color: #fff;
+	/* background: #F14548 !important; */
+	position: relative;
+	background: linear-gradient(135deg, #3C8CE7 0%, #00FFC2 100%) !important;
+	font-weight: bold;
+}
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_post_carousel]:hover {
+	color: #fff;
+}
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_product_carousel] {
+	font-size: 12px;
+	color: #fff;
+	/* background: #F14548 !important; */
+	position: relative;
+	background: linear-gradient(135deg, #3C8CE7 0%, #00FFC2 100%) !important;
+	font-weight: bold;
+}
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_product_carousel]:hover {
+	color: #fff;
+}
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_team_carousel] {
+	font-size: 12px;
+	color: #fff;
+	/* background: #F14548 !important; */
+	position: relative;
+	background: linear-gradient(135deg, #3C8CE7 0%, #00FFC2 100%) !important;
+	font-weight: bold;
+}
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_team_carousel]:hover {
+	color: #fff;
+}
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_testimonial_carousel] {
+	font-size: 12px;
+	color: #fff;
+	/* background: #F14548 !important; */
+	position: relative;
+	background: linear-gradient(135deg, #3C8CE7 0%, #00FFC2 100%) !important;
+	font-weight: bold;
+}
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_testimonial_carousel]:hover {
+	color: #fff;
+}
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_testimonial_carousel_lite] {
+	font-size: 12px;
+	color: #fff;
+	/* background: #F14548 !important; */
+	position: relative;
+	background: linear-gradient(135deg, #3C8CE7 0%, #00FFC2 100%) !important;
+	font-weight: bold;
+}
+.et-db #et-boc .et-l .et-fb-modules-list li[class^=divi8_testimonial_carousel_lite]:hover {
+	color: #fff;
+}
+
 .divi8-icon {
   font-family: ETmodules;
   content: attr(data-icon);
@@ -232,7 +343,7 @@ ul.divi8-rating li {
   font-size: 105px !important;
   text-align: center !important;
 }
-.divi8-icon-left,  .divi8-icon-right{
+.divi8-icon-left, .divi8-icon-right{
 	font-family: ETmodules;
 	content: attr(data-icon);
 	border-style: solid;
@@ -2072,7 +2183,7 @@ figure.effect-duke:hover p {
 
 .dcs_post_area{
 	display: flex;
-  	flex-direction: column;
+	flex-direction: column;
 	padding: 0px 0px 45px 0px ;
 }
 
@@ -2081,40 +2192,55 @@ figure.effect-duke:hover p {
 }
 .dcs_post_title h3{
 	order: 2;
-	padding: 15px 35px 0px 35px;
-	font-weight: 700;
-    font-size: 18px;
-    color: #2d2d2d;
-    line-height: 24px;
-	text-align: left;
+	text-align: left !important;
+	padding: 15px 35px 0px 35px !important;
+	color: #8B8E9C !important;
+	text-transform: uppercase !important;
+	font-family: Barlow;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 30px;
 }
 .dcs_post_excerpt{
 	order: 3;
 	padding: 0px 35px 0px 35px;
 	font-size: 16px;
-    color: #3d3d3d;
-	text-align: justify;
+	text-align: left !important;
+	color: #8B8E9C;
+	font-family: Barlow;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 30px
 }
 .dcs_post_readmore{
 	order: 4;
 	padding: 0px 35px 0px 35px;
+	text-align: left !important;
 }
 .dcs_post_readmore a{
 	order: 4;
 	padding: 8px 12px;
-
 	font-weight: 700;
-    text-transform: uppercase!important;
-    color: #3d3d3d;
+	font-family: Barlow;
+	text-transform: uppercase !important;
+	color: #3d3d3d;
+	border: 1px solid #536171 ;
+	/*text-align: left !important;*/
+
 }
 .dcs_post_author{
 	order: 5;
-	text-transform: capitalize;
-	text-align: left;
-	font-size:12px;
-	font-weight: 700;
-    color: #000000;
-	padding: 30px 35px 0px 35px;
+	text-transform:  uppercase!important;
+	text-align: left !important;
+	color: #ABADB7 !important;
+	padding: 30px 35px 0px 35px !important;
+	font-family: Poppins;
+	font-size: 12px !important;
+	font-style: normal;
+	font-weight: 600 !important;
+	line-height: 20px;
+
 }
 .dcs_post_author span{
 	padding-left: 15px;
@@ -2122,13 +2248,16 @@ figure.effect-duke:hover p {
 .dcs_post_meta{
 	order: 7;
 	padding: 0px 35px 0px 35px;
+	/*text-align: left !important;*/
 }
 .dcs_post_tags{
 	order: 8;
 	padding: 0px 35px 0px 35px;
 }
 .dcs_post_img{
-    display: inline-block !important;
+	order: 1;
+	/* width: 356px !important;
+	height: 176px !important; */
 }
 /* testimonial */
 .divi8-testi-icon-left, .divi8-testi-icon-right{
@@ -2157,4 +2286,9 @@ figure.effect-duke:hover p {
 .divi8_google_review_carousel_item .author{
 	padding-top:10px;
 	font-size: 14px;
+}
+
+.divi8-icon-left,
+.divi8-icon-right {
+    font-family: ETmodules !important;
 }

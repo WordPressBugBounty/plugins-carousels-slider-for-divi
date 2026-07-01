@@ -9,7 +9,7 @@ defined( 'ABSPATH' ) || die();
     <div class="container divicontinr">
         <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
         <a href="https://divicarousels.com/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
-            <span class="fs-4"><img class="logo" src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>divi-carousel-logo-2.png" alt=""></span>
+            <span class="fs-4"><img class="logo" src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>divi-carousel-logo-2.png" alt=""></span>
         </a>
 
         <ul class="nav nav-pills">
@@ -26,19 +26,19 @@ defined( 'ABSPATH' ) || die();
                     <li>
                         <a href="https://wordpress.org/support/plugin/carousels-slider-for-divi/reviews/?filter=5" class="your-feedback-does-matter-group">
                             <div class="your-feedback-does1">Feedback</div>
-                            <img class="send-fill-icon3" alt="" src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>/send-fill.svg">
+                            <img class="send-fill-icon3" alt="" src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>/send-fill.svg">
                         </a>
                     </li>
                     <li>
                         <a href="https://divicarousels.com/modules/" class="modules-group">
                             <div class="your-feedback-does1">Modules</div>
-                            <img class="send-fill-icon3" alt="" src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>send-fill1.svg">
+                            <img class="send-fill-icon3" alt="" src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>send-fill1.svg">
                         </a>
                     </li>
                     <li>
                         <a href="https://wordpress.org/support/plugin/carousels-slider-for-divi/" class="support-container">
                             <div class="your-feedback-does1">Support</div>
-                            <img class="send-fill-icon3" alt="" src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>send-fill1.svg">
+                            <img class="send-fill-icon3" alt="" src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>send-fill1.svg">
                         </a>
                     </li>
                 </ul>
@@ -53,7 +53,7 @@ defined( 'ABSPATH' ) || die();
                 </div>
                 <a href="https://divicarousels.com/divi-image-carousel/" class="module-item">
                     <ul>
-                        <li><img src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>image-carousel-icon.png" alt=""></li>
+                        <li><img src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>image-carousel-icon.png" alt=""></li>
                         <li>Image Carousel</li>
                     </ul>
                 </a>
@@ -66,7 +66,7 @@ defined( 'ABSPATH' ) || die();
                 </div>
                 <a href="https://divicarousels.com/divi-logo-carousel/" class="module-item">
                     <ul>
-                        <li><img src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>logo-carousel-icon.png" alt=""></li>
+                        <li><img src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>logo-carousel-icon.png" alt=""></li>
                         <li>Logo Carousel</li>
                     </ul>
                 </a>
@@ -79,7 +79,7 @@ defined( 'ABSPATH' ) || die();
                 </div>
                 <a href="https://divicarousels.com/divi-testimonial-carousel/" class="module-item">
                     <ul>
-                        <li><img src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>testimonial-carousel-icon.png" alt=""></li>
+                        <li><img src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>testimonial-carousel-icon.png" alt=""></li>
                         <li>Testimonial Carousel Lite</li>
                     </ul>
                 </a>
@@ -92,7 +92,7 @@ defined( 'ABSPATH' ) || die();
                 </div>
                 <a href="#" class="module-item">
                     <ul>
-                        <li><img src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>twitter-carousel-icon.png" alt=""></li>
+                        <li><img src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>twitter-carousel-icon.png" alt=""></li>
                         <li>Twitter Carousel</li>
                     </ul>
                 </a>
@@ -105,7 +105,7 @@ defined( 'ABSPATH' ) || die();
                 </div>
                 <a href="#" class="module-item">
                     <ul>
-                        <li><img src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>parallax-carousel-icon.png" alt=""></li>
+                        <li><img src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>parallax-carousel-icon.png" alt=""></li>
                         <li>Parallax Carousel</li>
                     </ul>
                 </a>
@@ -118,7 +118,7 @@ defined( 'ABSPATH' ) || die();
                 </div>
                 <a href="https://divicarousels.com/divi-content-carousel/" class="module-item">
                     <ul>
-                        <li><img src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>content-carousel-icon.png" alt=""></li>
+                        <li><img src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>content-carousel-icon.png" alt=""></li>
                         <li>Content Carousel</li>
                     </ul>
                 </a>
@@ -131,7 +131,7 @@ defined( 'ABSPATH' ) || die();
                 </div>
                 <a href="https://divicarousels.com/divi-post-carousel/" class="module-item">
                     <ul>
-                        <li><img src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>blog-carousel-icon.png" alt=""></li>
+                        <li><img src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>blog-carousel-icon.png" alt=""></li>
                         <li>Blog Carousel</li>
                     </ul>
                 </a>
@@ -144,7 +144,7 @@ defined( 'ABSPATH' ) || die();
                 </div>
                 <a href="https://divicarousels.com/divi-testimonial-carousel/" class="module-item">
                     <ul>
-                        <li><img src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>testimonial-carousel-icon.png" alt=""></li>
+                        <li><img src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>testimonial-carousel-icon.png" alt=""></li>
                         <li>Testimonial Carousel</li>
                     </ul>
                 </a>
@@ -157,7 +157,7 @@ defined( 'ABSPATH' ) || die();
                 </div>
                 <a href="https://divicarousels.com/divi-instagram-carousel/" class="module-item">
                     <ul>
-                        <li><img src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>instagram-facebook-icon.png" alt=""></li>
+                        <li><img src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>instagram-facebook-icon.png" alt=""></li>
                         <li>Instagram Carousel</li>
                     </ul>
                 </a>
@@ -170,7 +170,7 @@ defined( 'ABSPATH' ) || die();
                 </div>
                 <a href="https://divicarousels.com/divi-google-review-carousel/" class="module-item">
                     <ul>
-                        <li><img src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>google-review-carousel-icon.png" alt=""></li>
+                        <li><img src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>google-review-carousel-icon.png" alt=""></li>
                         <li>Google Review Carousel</li>
                     </ul>
                 </a>
@@ -183,7 +183,7 @@ defined( 'ABSPATH' ) || die();
                 </div>
                 <a href="https://divicarousels.com/divi-team-carousel" class="module-item">
                     <ul>
-                        <li><img src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>team-carousel-icon.png" alt=""></li>
+                        <li><img src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>team-carousel-icon.png" alt=""></li>
                         <li>Team Carousel</li>
                     </ul>
                 </a>
@@ -196,7 +196,7 @@ defined( 'ABSPATH' ) || die();
                 </div>
                 <a href="https://divicarousels.com/divi-product-carousel/" class="module-item">
                     <ul>
-                        <li><img src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>product-carousel-icon.png" alt=""></li>
+                        <li><img src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>product-carousel-icon.png" alt=""></li>
                         <li>Product Carousel</li>
                     </ul>
                 </a>
@@ -209,7 +209,7 @@ defined( 'ABSPATH' ) || die();
                 </div>
                 <a href="https://divicarousels.com/divi-facebook-carousel/" class="module-item">
                     <ul>
-                        <li><img src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>facebook-carousel-icon.png" alt=""></li>
+                        <li><img src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>facebook-carousel-icon.png" alt=""></li>
                         <li>Facebook Carousel</li>
                     </ul>
                 </a>
@@ -222,7 +222,7 @@ defined( 'ABSPATH' ) || die();
                 </div>
                 <a href="#" class="module-item">
                     <ul>
-                        <li><img src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>divi-youtube-carousel.png" alt=""></li>
+                        <li><img src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>divi-youtube-carousel.png" alt=""></li>
                         <li>Video Carousel</li>
                     </ul>
                 </a>
@@ -235,7 +235,7 @@ defined( 'ABSPATH' ) || die();
                 </div>
                 <a href="#" class="module-item">
                     <ul>
-                        <li><img src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>multirow-carousel-icon.png" alt=""></li>
+                        <li><img src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>multirow-carousel-icon.png" alt=""></li>
                         <li>Multirow Carousel</li>
                     </ul>
                 </a>
@@ -248,7 +248,7 @@ defined( 'ABSPATH' ) || die();
                 </div>
                 <a href="#" class="module-item">
                     <ul>
-                        <li><img src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>cube-carousel-icon.png" alt=""></li>
+                        <li><img src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>cube-carousel-icon.png" alt=""></li>
                         <li>Cube Carousel</li>
                     </ul>
                 </a>
@@ -261,7 +261,7 @@ defined( 'ABSPATH' ) || die();
                 </div>
                 <a href="#" class="module-item">
                     <ul>
-                        <li><img src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>card-carousel-icon.png" alt=""></li>
+                        <li><img src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>card-carousel-icon.png" alt=""></li>
                         <li>Card Carousel</li>
                     </ul>
                 </a>
@@ -277,11 +277,11 @@ defined( 'ABSPATH' ) || die();
         </div>
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2 g-4 py-4">
             <div class="col d-flex justify-content-center facebook">
-                <img src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>facebook1.svg" alt="">
+                <img src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>facebook1.svg" alt="">
                 <a href="https://www.facebook.com/divicarousels" class="join-container"><div class="pro">Join</div></a>
             </div>
             <div class="col d-flex justify-content-center facebook">
-                <img src="<?php echo DIVICAROUSEL8_PLUGIN_ASSETS; ?>support.svg" alt="">
+                <img src="<?php echo DCS_DIVICAROUSEL_PLUGIN_ASSETS; ?>support.svg" alt="">
                 <a href="https://wordpress.org/support/plugin/carousels-slider-for-divi/" class="join-container"><div class="pro">Get Support</div></a>
             </div>
         </div>

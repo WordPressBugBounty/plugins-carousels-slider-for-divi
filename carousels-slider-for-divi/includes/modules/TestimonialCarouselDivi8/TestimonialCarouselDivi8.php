@@ -1,11 +1,12 @@
 <?php
+include_once(DCS_DIVICAROUSEL_PATH.'/includes/Traits/Divi8_Icon_Renderer.php');
 
 class TestimonialCarouselDivi8 extends ET_Builder_Module {
 
 	public $slug       = 'divi8_testimonial_carousel_lite';
 	public $vb_support = 'on';
 	public $child_slug = 'divi8_testimonial_carousel_item_lite';
-
+	use Divi8_Icon_Renderer;
 
 	protected $module_credits = array(
 		'module_uri' => 'https://divicarousels.com/divi-testimonial-carousel/',
@@ -739,15 +740,7 @@ class TestimonialCarouselDivi8 extends ET_Builder_Module {
 		}
 
 	}
-	public function  leftIconShow(){
-		$icon = "<i class='et-pb-icon divi8-testi-icon-left'>4</i>";
-		return $icon;
-	}
-	public function  rightIconShow(){
 
-		$icon = "<i class='et-pb-icon divi8-testi-icon-right'>5</i>";
-		return $icon;
-	}
 	public function render( $attrs, $content = null , $render_slug ) {
 		global $tesimonialcarousel_data;
 		$divi8_testimonial_autoplay_show_hide = "on" === $this->props['divi8_testimonial_autoplay'];

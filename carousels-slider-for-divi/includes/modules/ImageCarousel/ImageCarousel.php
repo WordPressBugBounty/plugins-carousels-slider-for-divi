@@ -1,6 +1,7 @@
 <?php
 include_once(DCS_DIVICAROUSEL_PATH.'/includes/modules/base/base.php');
 include_once(DCS_DIVICAROUSEL_PATH.'/includes/modules/base/utils.php');
+include_once(DCS_DIVICAROUSEL_PATH.'/includes/Traits/Divi8_Icon_Renderer.php');
 
 class DCS_ImageCarousel extends ET_Builder_Module {
 
@@ -8,6 +9,7 @@ class DCS_ImageCarousel extends ET_Builder_Module {
 	public $vb_support = 'on';
 	public $child_slug = 'divi8_image_carousel_item';
     use DCS_UTILS;
+	use Divi8_Icon_Renderer;
 
 	protected $module_credits = array(
 		'module_uri' => 'https://divicarousels.com/divi-image-carousel/',
@@ -917,26 +919,7 @@ class DCS_ImageCarousel extends ET_Builder_Module {
 	public function before_render(){
 
 	}
-	public function  leftIconShow(){
-		if ($this->props["divi8_left_icon"]){
-		  $icon = "<i class='et-pb-icon divi8-icon-left'>";
-		  $icon .=	esc_attr( et_pb_process_font_icon($this->props['divi8_left_icon']));
-		  $icon .= "</i>";
-		}else{
-			$icon = "<i class='et-pb-icon divi8-icon-left'>5</i>";
-		}
-		return $icon;
-	}
-	public function  rightIconShow(){
-		if ($this->props["divi8_right_icon"]){
-		  $icon = "<i class='et-pb-icon divi8-icon-right'>";
-		  $icon .=	esc_attr( et_pb_process_font_icon($this->props['divi8_right_icon']));
-		  $icon .= "</i>";
-		}else{
-			$icon = "<i class='et-pb-icon divi8-icon-right'>5</i>";
-		}
-		return $icon;
-	}
+
 	public function render($attrs, $content = null , $render_slug) {
 		// global $carousel_data;
 		$divi8_autoplay_show_hide = "on" === $this->props['divi8_autoplay'];

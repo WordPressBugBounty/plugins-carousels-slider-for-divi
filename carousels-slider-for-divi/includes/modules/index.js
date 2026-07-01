@@ -12,5 +12,4 @@ export default [
     DCS_LogoCarousel, DCS_LogoCarouselItem,
     DCS_ImageCarousel, DCS_ImageCarouselItem,
     TestimonialCarouselDivi8,TestimonialCarouselItemDivi8,
-
 ];

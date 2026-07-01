@@ -1,29 +1,29 @@
 === Divi Carousel Lite - 17+ Carousel Module ===
-Contributors: divicarousels
+Contributors: divicarousels, freemius
 Tags: divi carousel, image carousel, logo carousel, testimonial carousel, divi module, divi, divi slider, divi builder
 Requires at least: 5.0
-Tested up to: 6.9
+Tested up to: 7.0
 Requires PHP: 5.6
-Stable tag: 1.6.3
+Stable tag: 2.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Divi Carousel Lite, the ultimate Divi Builder plugin with 17+ modules like image carousel, testimonial carousel, logo carousel, team carousel, and more!
 
 == Description ==
-Divi Carousel Lite, the ultimate carousel plugin designed specifically for Divi Builder. With a powerful set of features and modules, including the **Divi Image Carousel, Divi Testimonial Carousel, Divi Logo Carousel, Divi Team Carousel**, and more. So, get rid of all the default builder limitations and display your content in a more beautiful and attractive way.
+Divi Carousel Lite is the ultimate carousel plugin designed specifically for Divi Builder. With a powerful set of features and modules, including the **Divi Image Carousel, Divi Testimonial Carousel, Divi Logo Carousel, Divi Team Carousel**, and more, you can get rid of all the default builder limitations and display your content in a more beautiful and attractive way.
 
 ## Ultimate Divi Carousel Slider for Divi Builder
 
-The Divi Carousel Lite plugin brings you 5 different slider modules to enhance your Divi Builder design: *Image Carousel, Logo Carousel, Testimonial Carousel, Twitter Carousel and Blog Carousel*. You can design an interactive and responsive carousel section for your Divi website using this plugin.
+The Divi Carousel Lite plugin brings you 5 different carousel modules to enhance your Divi Builder design: *Image Carousel, Logo Carousel, Testimonial Carousel, Blog Carousel, and more*. You can design an interactive and responsive carousel section for your Divi website using this plugin.
  
-All modules in Divi Carousel Lite have the same powerful features you get in a premium carousel plugin. Also, the dashboard UI/UX is the same as what you get with the default Divi theme. So, you will feel very familiar with the customization and feature hierarchy. [Carousel slider](https://en.wikipedia.org/wiki/Carousel) has lost feacture like, loop, auto play, move over
+All modules in Divi Carousel Lite have the same powerful features you get in a premium carousel plugin. The dashboard UI/UX matches the default Divi theme experience, so you will feel right at home with the customization options and feature layout. [Carousel slider](https://en.wikipedia.org/wiki/Carousel) features include loop, autoplay, and smooth slide transitions.
 
 ## 50+ Free Carousel Layouts!
 We're thrilled to share that the Divi Carousel demos are now free layouts! Download and import them directly into your site. Built with the plugin's features, these pre-made designs come straight from our carousel demo website. We poured our hearts into crafting them, and we hope you love them!  These layouts are a fantastic time-saver, allowing you to see how the carousels and modules were created and explore the settings used. [**Download Carousel Layout**](https://divicarousels.com/layout-download/)
 [HOW TO DOWNLOAD AND INSTALL](https://divicarousels.com/docs/free-bonus-divi-carousel-demo-layouts/)
 
-## FREE DIVI CAROUSEL AND COUNTING
+## FREE DIVI CAROUSEL MODULES AND COUNTING
 
 [**View Demo**](https://divicarousels.com/divi-carousels-demo/)
 [**Divi Carousels Free vs Pro**](https://divicarousels.com/download-for-free/)
@@ -39,17 +39,17 @@ https://www.youtube.com/watch?v=vTxA-Kq_4mI
 - [**Divi Twitter Carousel**](https://divicarousels.com/) (coming) : Integrate your Twitter account with your website and show your tweets inside a beautiful carousel slider.
 - [**Divi Parallax Carousel**](https://divicarousels.com/) (coming) : Design a full-page parallax slider in the Divi builder with our free plugin.
 
-**How to Create Divi Image Carousel free**
+**How to Create a Divi Image Carousel for Free**
 
 https://www.youtube.com/watch?v=xLQX2zlArrA
 
-**How to Create Divi Logo Carousel free**
+**How to Create a Divi Logo Carousel for Free**
 
 https://www.youtube.com/watch?v=q4NIlB2Tj8Y
 
 ## KEY FEATURE HIGHLIGHTS
 
-**Powerful carousel settings**
+**Powerful Carousel Settings**
 Get ultimate control over carousel features, including autoplay, animation, center slides, arrows, dots navigation, and more.   
 
 **Robust spacing**
@@ -62,7 +62,7 @@ Place a stylish pagination button and customize it with a unique color, border, 
 Every single module of this plugin has passed the mobile-responsive test.
 
 **Very lightweight**
-This plugin was created under proper developer guidelines by Divi Theme. So, the plugin has no extra load on the website. [swiper js](https://swiperjs.com/) use for buidling this nice plugin.
+This plugin was created under proper developer guidelines by Divi Theme. So, the plugin has no extra load on the website. Powered by [Swiper.js](https://swiperjs.com/) for smooth, high-performance carousels.
 
 **Regular updates**
 We provide updates on a regular basis for both versions, pro and free.
@@ -72,7 +72,7 @@ All the module dashboards are the same as what you get in the Divi builder by de
 
 
 ### **17+ PREMIUM MODULES ON OUR [PRO VERSION](https://divicarousels.com/)**
-- [**Advance Carousel**](https://divicarousels.com/divi-content-carousel/) – Create a next-gen carousel section with a combination of text and images for your Divi website.
+- [**Advanced Content Carousel**](https://divicarousels.com/divi-content-carousel/) – Create a next-gen carousel section with a combination of text and images for your Divi website.
 - [**Image Carousel**](https://divicarousels.com/divi-image-carousel/) – Display your photographs inside an interactive carousel slider with only a few clicks.
 - [**Logo Carousel**](https://divicarousels.com/divi-logo-carousel/) – Feature your client, associate, and partner logos on your website inside a carousel with a smooth scrolling effect.
 - [**Team Carousel**](https://divicarousels.com/divi-team-carousel/) – Showcase team members’ bios, including information about their position, social media accounts, and more, in an engaging team carousel.
@@ -101,7 +101,7 @@ Divi Carousel Lite is brought to you by [Divi Carousel](https://divicarousels.co
 - [Facebook Community](https://www.facebook.com/divicarousels)
 - [Twitter Community](https://twitter.com/divicarousels)
 - [Youtube Channel](https://www.youtube.com/channel/UCBJ7avS9oGyPXrqLiYnYC-w?sub_confirmation=1)
-- [linkedin Page](https://www.linkedin.com/company/divicarousels/)
+- [LinkedIn Page](https://www.linkedin.com/company/divicarousels/)
 
 == Installation ==
 
@@ -119,7 +119,7 @@ Divi Carousel Lite is brought to you by [Divi Carousel](https://divicarousels.co
 
 = Installation =
 
-Note: This plugin works with Divi Theme/Builder. Make sure you have Divi Theme/Builder installed.
+Note: This plugin requires the Divi Theme or Divi Builder. Make sure you have Divi Theme/Builder installed.
 
 1. Upload the plugin folder to the /wp-content/plugins/ directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the ‘Plugins’ screen in WordPress
@@ -138,9 +138,9 @@ Yes. But it has a pro version with 17+ more carousel modules, section layouts, a
 
 = If I update to Pro will my existing design break? =
 
-No. All the free modules are available in the pro, so when you install the premium version you design be intact. 
+No. All the free modules are available in the pro, so when you install the premium version your existing designs will remain intact.
 
-= What is the diffrent between Divi Carousels Lite and Pro version? =
+= What is the difference between Divi Carousels Lite and Pro version? =
 
 Divi Carousels Lite has 5 modules. On the other hand, installing the pro version will add 10+ Divi slider modules to you builder. Also, you will get acces to a bunch of section layouts and templates. 
 
@@ -164,11 +164,11 @@ You can enable autoplay for the carousel in Module Settings > Content > Carousel
  
 You can enable infinite animation for the carousel in Module Settings > Content > Carousel Settings > Slider Loop. 
 
-= Change I hide the arrows and dots?=
+= Can I hide the arrows and dots?=
  
 The setting to show or hide the arrows and dots can be found under Module Settings > Content > Navigation Settings > Navigation Show/Hide and Settings > Content > Pagination Settings > Pagination Show/Hide.
 
-= Change I change the number of slider in the carousel?=
+= Can I change the number of slider in the carousel?=
  
 You can change the number of slider on each slide of carousel in Module Settings > Content > Carousel Settings > Show Items Desktop.
 
@@ -195,22 +195,22 @@ Version 1.0.0
     - Initial stable release
 
 Version 1.1.0
-    - Admin panel add
+    - Admin panel added
 
 Version 1.4.0 
-    - Error fix for image carousel, logo carousel, testimonial carousel
+    - Bug fixes for image carousel, logo carousel, and testimonial carousel
 
 Version 1.5.0 
     - Add Freemium SDK
 
 Version 1.6.0
     -   **Fix:**   Testimonial carousel arrow size fix
-    -   **Fix:**   Update read me
+    -   **Fix:**   Updated read me
     - Test with WordPress 6.2
 
 Version 1.6.1 
     - New Admin panel 
-    - js version issues solve
+    - Resolved JavaScript version conflicts
     - Update Screenshots
     - Demo change
 
