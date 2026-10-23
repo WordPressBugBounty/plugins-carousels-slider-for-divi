@@ -90,7 +90,7 @@ class DCS_Divicarousel_Admin {
 		 * between the defined hooks and the functions defined in this
 		 * class.
 		 */
-
+        wp_enqueue_style( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'css/bootstrap.min.css', array(), '5.3.8' );
 		wp_enqueue_style( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'css/divicarousel-admin.css', array(), 'all' );
 
 	}
